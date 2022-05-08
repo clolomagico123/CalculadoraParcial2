@@ -1,0 +1,11 @@
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\bin\Debug\Calculadoraparcial.exe.config
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\bin\Debug\Calculadoraparcial.exe
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\bin\Debug\Calculadoraparcial.pdb
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.Form1.resources
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.Properties.Resources.resources
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.csproj.GenerateResource.cache
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.exe
+C:\Users\carlos\source\repos\Calculadoraparcial\Calculadoraparcial\obj\Debug\Calculadoraparcial.pdb
